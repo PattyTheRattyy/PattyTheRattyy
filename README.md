@@ -8,8 +8,8 @@
 ### About Me 👦
 
 - 🌱 I’m currently working as a Teaching Assistant!
-- 🌐 Currently learning Web Development
-- 💬 Ask me about counter strike skins
+- 🌐 Learning Web Development
+- 💬 Ask me about Counter-Strike skins
 <!--- 📫 How to reach me: -->
 
 ### Technologies 👨‍💻
