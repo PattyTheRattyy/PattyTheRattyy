@@ -5,7 +5,7 @@
 <!--[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ /)-->
 <!--[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)-->
 
-### About Me 👦
+### About Me 🙋‍♂️
 
 - 🌱 I’m currently working as a Teaching Assistant!
 - 🌐 Learning Web Development
