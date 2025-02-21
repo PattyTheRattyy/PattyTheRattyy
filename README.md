@@ -25,10 +25,10 @@
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)-->
 
-### Leetcode Stats 🤠:      
+### Leetcode Stats 🤠      
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/PattyTheRatty)](https://leetcode.com/u/PattyTheRatty/)
 
 
 
-### Check out some of my projects I worked on below!⬇️
+### Check out some of my projects I worked on below! ⬇️
