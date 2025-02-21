@@ -26,3 +26,6 @@
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)-->
 
 Check out some of my projects I worked on below!
+
+Leetcode Stats:
+[![PattyTheRatty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=PattyTheRatty)](https://github.com/KnlnKS/leetcode-stats)
