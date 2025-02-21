@@ -25,7 +25,10 @@
 
 <!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)-->
 
-Check out some of my projects I worked on below!
+Leetcode Stats:      
 
-Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/PattTheRatty)
+![Leetcode Stats](https://leetcard.PattTheRatty.cool/PattTheRatty)
+
+
+
+Check out some of my projects I worked on below!
