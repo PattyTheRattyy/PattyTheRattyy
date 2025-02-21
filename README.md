@@ -27,7 +27,7 @@
 
 Leetcode Stats:      
 
-![Leetcode Stats](https://leetcard.PattTheRatty.cool/PattTheRatty)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PattyTheRatty)](https://leetcode.com/u/PattyTheRatty/)
 
 
 
