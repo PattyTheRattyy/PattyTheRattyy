@@ -28,4 +28,4 @@
 Check out some of my projects I worked on below!
 
 Leetcode Stats:
-[![PattyTheRatty's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=PattyTheRatty)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/PattTheRatty)
