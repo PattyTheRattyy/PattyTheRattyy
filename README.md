@@ -7,7 +7,7 @@
 
 ### About Me 🙋‍♂️
 
-<!---! - 🌱 I’m currently working as a Teaching Assistant! -->
+- 🌱 I’m currently working as a Teaching Assistant!
 - 🌐 Learning Web Development
 - 💬 Ask me about Chess, Climbing, or Video Games!
 <!--- 📫 How to reach me: -->
